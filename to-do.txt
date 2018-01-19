@@ -3,3 +3,6 @@
  - gallons to liters
  - hours to minutes
  - feet to inches
+ - terrestrial parsec to meters
+ - Earth-based light-year to meters
+- mistake
